@@ -12,6 +12,11 @@ social:
     link: /#contact
     icon: envelope
 superuser: false
+
+user_groups:
+- Researchers
+
+
 ---
  Thdqoih oedu oais fuaqkxjnfewu  owq dosk opwiq doiupqjs wq
 
