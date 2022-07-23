@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+  - description: 300%
+    icon: laptop-medical
+    icon_pack: fas
+    name: 医疗影像
   - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
+    icon: dataverse
+    icon_pack: ai
+    name: 茂吉
   - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
+    icon: arxiv
+    icon_pack: ai
+    name: 椰椰
   - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon: sci-hub
+    icon_pack: ai
+    name: 🦅酱
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
